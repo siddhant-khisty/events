@@ -24,13 +24,6 @@ You can write blogs on the given theme, submit them, and win a special prize as 
 
 > Note: The Special Prize will be different from the grand prize.
 
-## Previous Special Track Winners
-<p align="center">
-  <img width="48%" src="../assets/hashnode/Special_August.jpg" />
-  <img width="48%" src="../assets/hashnode/Special_September.jpg" />
-  <img width="48%" src="../assets/hashnode/Special_October.jpg" />
-</p>
-
 ## What are the prizes for this month
 
 We have 2 exciting prizes for November! Check then out :point_down:
@@ -66,6 +59,13 @@ Check out some of the previous winners of the Hashnode Challenge.
   <img width="48%" src="../assets/hashnode/Winner_August.jpg" />
   <img width="48%" src="../assets/hashnode/Winner_September.jpg" />
   <img width="48%" src="../assets/hashnode/Winner_October.jpg" />
+</p>
+
+## Previous Special Track Winners
+<p align="center">
+  <img width="48%" src="../assets/hashnode/Special_August.jpg" />
+  <img width="48%" src="../assets/hashnode/Special_September.jpg" />
+  <img width="48%" src="../assets/hashnode/Special_October.jpg" />
 </p>
 
 ## General info
