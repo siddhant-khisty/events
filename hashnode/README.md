@@ -1,11 +1,11 @@
 # Hashnode Blogging Challenge
 
-## What is the Blogging event?
+## What is the blogging event?
 Every month we will be having 4 tracks. You can write one or multiple blogs on the given tracks. The best blogs will receive hashnode swag.
 
 There will also be one grand prize for every month. The prize will go to the one who writes multiple great blogs throughout the month. For the grand prize, you can wrtie on any of the 4 tracks.
 
-## Previous Winners
+## Previous winners
 
 Check out some of the previous winners of the Hashnode Challenge.
 
@@ -19,7 +19,7 @@ Check out some of the previous winners of the Hashnode Challenge.
   <img width="33%" src="../assets/hashnode/Winner_October.jpg" />
 </p>
 
-## How to Participate?
+## How to participate?
 You can participate in a few simple steps.
 
 :one: Write and publish a blog of the given themes on hashnode and use the hashtag `#BlogsWithCC` while publishing it.
@@ -38,7 +38,7 @@ You can write blogs on the given theme, submit them, and win a special prize as 
 
 > Note: The Special Prize will be different from the grand prize.
 
-## Previous Special Track Winners
+## Previous special track winners
 <p align="center">
   <img width="48%" src="../assets/hashnode/Special_August.jpg" />
   <img width="48%" src="../assets/hashnode/Special_September.jpg" />
