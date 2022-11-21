@@ -21,7 +21,9 @@ Check out some of the previous winners of the Hashnode Challenge.
 
 ## How to Participate?
 You can participate in a few simple steps.
+
 :one: Write and publish a blog of the given themes on hashnode and use the hashtag `#BlogsWithCC` while publishing it.
+
 :two: Share your blogs on Twitter and tag `@WeAreDevs` and `@hashnode`.
 
 ## How to win the Grand Prize
@@ -68,6 +70,7 @@ For the special track, share your expereinces during KubeCon NA 2022, and you ca
 
 ## General info
 👉 If you want to get your blogs reviewed by the community members, drop a link to your published blog in the discord server
+
 👉 If you have questions related to the challenge, drop them in the discord server
 
 If you have any questions about the event, drop a message in our [Discord Server](https://discord.com/invite/wemakedevs) 
