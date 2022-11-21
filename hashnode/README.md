@@ -11,12 +11,12 @@ Check out some of the previous winners of the Hashnode Challenge.
 
 <p align="center">
     
-  <img width="48%" src="../assets/hashnode/Winner_May.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_June.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_July.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_August.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_September.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_October.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_May.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_June.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_July.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_August.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_September.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_October.jpg" />
 </p>
 
 ## How to Participate?
