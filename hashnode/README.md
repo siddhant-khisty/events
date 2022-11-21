@@ -5,20 +5,6 @@ Every month we will be having 4 tracks. You can write one or multiple blogs on t
 
 There will also be one grand prize for every month. The prize will go to the one who writes multiple great blogs throughout the month. For the grand prize, you can wrtie on any of the 4 tracks.
 
-## Previous Winners
-
-Check out some of the previous winners of the Hashnode Challenge.
-
-<p align="center">
-    
-  <img width="48%" src="../assets/hashnode/Winner_May.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_June.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_July.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_August.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_September.jpg" />
-  <img width="48%" src="../assets/hashnode/Winner_October.jpg" />
-</p>
-
 ## How to Participate?
 You can participate in a few simple steps.
 
@@ -67,6 +53,20 @@ Below you can find the current tracks for this month.
 </p>
 
 For the special track, share your expereinces during KubeCon NA 2022, and you can win a [LFX Training Voucher](https://lfx.linuxfoundation.org/tools/training-portal/) worth $499!
+
+## Previous Winners
+
+Check out some of the previous winners of the Hashnode Challenge.
+
+<p align="center">
+    
+  <img width="48%" src="../assets/hashnode/Winner_May.jpg" />
+  <img width="48%" src="../assets/hashnode/Winner_June.jpg" />
+  <img width="48%" src="../assets/hashnode/Winner_July.jpg" />
+  <img width="48%" src="../assets/hashnode/Winner_August.jpg" />
+  <img width="48%" src="../assets/hashnode/Winner_September.jpg" />
+  <img width="48%" src="../assets/hashnode/Winner_October.jpg" />
+</p>
 
 ## General info
 👉 If you want to get your blogs reviewed by the community members, drop a link to your published blog in the discord server
