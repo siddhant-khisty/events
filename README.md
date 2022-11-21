@@ -1,10 +1,13 @@
 # Events
 
-Welcome to the events repository for WeMakeDevs! :raised_hands:
+Welcome to the WeMakeDevs events repository!:raised hands:
 
-Want to contribute to the community, win some amazing prizes, network and learn at the same time? :gift:
 
-If yes then you are right place. Get involved with many amazing events by WeMakeDevs community. See the following events and get involved
+Want to give back to the community, compete for awesome rewards, network, and gain knowledge all at once? :gift:
+
+
+If so, you've come to the correct place. Participate in the numerous incredible events hosted by the WeMakeDevs community.
+Check out the following events and participate. 
 
 # Current events
 
