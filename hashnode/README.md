@@ -14,17 +14,17 @@ You can participate in a few simple steps.
 
 :two: Share your blogs on Twitter and tag `@WeMakeDevs` and `@hashnode`.
 
-## How to win the Grand Prize
+## How to win the grand prize
 Each month there will be a grand prize such as apple Iphones, Macbook, etc.
 
 At the end of the month, the person who write's the best blogs will win the grand prize.
 
-## Special Track
+## Special track
 Apart from the 4 tracks mentioned above, we will ocassionally be having a special track as well. This special track will be based on a certain theme for the month. 
 
 You can write blogs on the given theme, submit them, and win a special prize as well. 
 
-> Note: The Special Prize will be different from the grand prize.
+> Note: The Special prize will be different from the grand prize.
 
 ## What are the prizes for this month
 
