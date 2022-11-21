@@ -4,7 +4,7 @@
 
 Every month we will be having 4 tracks. You can write one or multiple blogs on the given tracks. The best blogs will receive hashnode swag.
 
-There will also be one grand prize for every month. The prize will go to the one who writes multiple great blogs throughout the month. For the grand prize, you can wrtie on any of the 4 tracks.
+There will also be one grand prize every month. The prize will go to the one who writes multiple great blogs throughout the month. For the grand prize, you can write on any of the 4 tracks.
 
 ## How to participate?
 
@@ -15,12 +15,12 @@ You can participate in a few simple steps.
 :two: Share your blogs on Twitter and tag `@WeMakeDevs` and `@hashnode`.
 
 ## How to win the grand prize
-Each month there will be a grand prize such as apple Iphones, Macbook, etc.
+Each month there will be a grand prize such as Apple iPhones, Macbooks, etc.
 
-At the end of the month, the person who write's the best blogs will win the grand prize.
+At the end of the month, the person who writes the best blogs will win the grand prize.
 
 ## Special track
-Apart from the 4 tracks mentioned above, we will ocassionally be having a special track as well. This special track will be based on a certain theme for the month. 
+Apart from the 4 tracks mentioned above, we will occasionally be having a special track as well. This special track will be based on a certain theme for the month. 
 
 You can write blogs on the given theme, submit them, and win a special prize as well. 
 
@@ -28,7 +28,7 @@ You can write blogs on the given theme, submit them, and win a special prize as 
 
 ## What are the prizes for this month
 
-We have 2 exciting prizes for November! Check then out :point_down:
+We have 2 exciting prizes for November! Check them out :point_down:
 
 <p align="center">
     
@@ -45,14 +45,14 @@ Below you can find the current tracks for this month.
   <img width="48%" src="../assets/hashnode/Track_4.png" />
 </p>
 
-For the special track, share your expereinces during KubeCon NA 2022, and you can win a [LFX Training Voucher](https://lfx.linuxfoundation.org/tools/training-portal/) worth $499!
+For the special track, share your experiences during KubeCon NA 2022, and you can win a [LFX Training Voucher](https://lfx.linuxfoundation.org/tools/training-portal/) worth $499!
 
 ## General info
 👉 If you want to get your blogs reviewed by the community members, drop a link to your published blog in the discord server
 
 👉 If you have questions related to the challenge, drop them in the discord server
 
-If you have any questions about the event, drop a message in our [Discord Server](https://discord.com/invite/wemakedevs) 
+If you have any questions about the event, drop a message on our [Discord Server](https://discord.com/invite/wemakedevs) 
 
 ## Previous winners
 
