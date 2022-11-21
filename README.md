@@ -1,8 +1,10 @@
 # Events
 
-Welcome to the events repository for WeMakeDevs! :hands:
+Welcome to the events repository for WeMakeDevs! :raised_hands:
 
-Here you can find a list of all event's which we are currently running, and have run in the past. 
+Want to contribute to the community, win some amazing prizes, network and learn at the same time? :gift:
+
+If yes then you are right place. Get involved with many amazing events by WeMakeDevs community. See the following events and get involved
 
 # Current events
 
@@ -11,3 +13,4 @@ Here you can find a list of all event's which we are currently running, and have
 # Past events
 
 Will be updated soon
+
