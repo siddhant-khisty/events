@@ -24,7 +24,7 @@ You can participate in a few simple steps.
 
 :one: Write and publish a blog of the given themes on hashnode and use the hashtag `#BlogsWithCC` while publishing it.
 
-:two: Share your blogs on Twitter and tag `@WeAreDevs` and `@hashnode`.
+:two: Share your blogs on Twitter and tag `@WeMakeDevs` and `@hashnode`.
 
 ## How to win the Grand Prize
 Each month there will be a grand prize such as apple Iphones, Macbook, etc.
