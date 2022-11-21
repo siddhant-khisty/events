@@ -1,6 +1,6 @@
 # Events
 
-Welcome to the WeMakeDevs events repository!:raised hands:
+Welcome to the WeMakeDevs events repository! :raised_hands:
 
 
 Want to give back to the community, compete for awesome rewards, network, and gain knowledge all at once? :gift:
