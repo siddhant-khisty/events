@@ -39,10 +39,10 @@ We have 2 exciting prizes for November! Check them out :point_down:
 ## What are the tracks for the current month?
 Below you can find the current tracks for this month.
 <p align="center">
-  <img width="48%" src="../assets/hashnode/Track_1.png" />
-  <img width="48%" src="../assets/hashnode/Track_2.png" />
-  <img width="48%" src="../assets/hashnode/Track_3.png" />
-  <img width="48%" src="../assets/hashnode/Track_4.png" />
+  <img width="48%" src="../assets/hashnode/Track-1.png" />
+  <img width="48%" src="../assets/hashnode/Track-2.png" />
+  <img width="48%" src="../assets/hashnode/Track-3.png" />
+  <img width="48%" src="../assets/hashnode/Track-4.png" />
 </p>
 
 For the special track, share your experiences during KubeCon NA 2022, and you can win a [LFX Training Voucher](https://lfx.linuxfoundation.org/tools/training-portal/) worth $499!
