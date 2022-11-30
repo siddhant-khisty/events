@@ -10,7 +10,7 @@ There will also be one grand prize every month. The prize will go to the one who
 
 You can participate in a few simple steps.
 
-:one: Write and publish a blog of the given themes on hashnode and use the hashtag `#BlogsWithCC` while publishing it.
+:one: Write and publish a blog of the given themes on hashnode and use the hashtag `#WeMakeDevs` while publishing it.
 
 :two: Share your blogs on Twitter and tag `@WeMakeDevs` and `@hashnode`.
 
@@ -28,7 +28,7 @@ You can write blogs on the given theme, submit them, and win a special prize as 
 
 ## What are the prizes for this month
 
-We have 2 exciting prizes for November! Check them out :point_down:
+We have an exciting prize for December! Check it out :point_down:
 
 <p align="center">
     <img width="48%" src="../assets/hashnode/Special_prize.png" />
@@ -43,7 +43,12 @@ Below you can find the current tracks for this month.
   <img width="48%" src="../assets/hashnode/Track-4.png" />
 </p>
 
-For the special track, share your experiences during KubeCon NA 2022, and you can win a [LFX Training Voucher](https://lfx.linuxfoundation.org/tools/training-portal/) worth $499!
+For this month, we will be partnering with EddieHub! Write a blog sharing how you have grown by collaborating with people and stand a chance to win a Keychron Keyboard. :keyboard:
+<p align="center">
+  <img width="48%" src="../assets/hashnode/Special_track.png" />
+ 
+</p>
+
 
 ## General info
 👉 If you want to get your blogs reviewed by the community members, drop a link to your published blog in the discord server
