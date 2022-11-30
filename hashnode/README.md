@@ -31,9 +31,7 @@ You can write blogs on the given theme, submit them, and win a special prize as 
 We have 2 exciting prizes for November! Check them out :point_down:
 
 <p align="center">
-    
-  <img width="48%" src="../assets/hashnode/Grand_Prize.png" />
-  <img width="48%" src="../assets/hashnode/Special_Prize.png" />
+    <img width="48%" src="../assets/hashnode/Special_prize.png" />
 </p>
 
 ## What are the tracks for the current month?
