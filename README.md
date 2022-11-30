@@ -11,7 +11,7 @@ Check out the following events and participate.
 
 # Current events
 
-- [Hashnode blogging challenge](./hashnode/README.md) - Every Month
+- [Hashnode blogging challenge](./hashnode/README.md) - Every month
 
 # Past events
 
