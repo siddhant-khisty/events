@@ -14,12 +14,12 @@ You can participate in a few simple steps.
 
 :two: Share your blogs on Twitter and tag `@WeMakeDevs` and `@hashnode`.
 
-## How to win the grand prize
+### How to win the grand prize
 Each month there will be a grand prize such as Apple iPhones, Macbooks, etc.
 
 At the end of the month, the person who writes the best blogs will win the grand prize.
 
-## Special track
+### Special track
 Apart from the 4 tracks mentioned above, we will occasionally be having a special track as well. This special track will be based on a certain theme for the month. 
 
 You can write blogs on the given theme, submit them, and win a special prize as well. 
@@ -43,12 +43,12 @@ Below you can find the current tracks for this month.
   <img width="48%" src="../assets/hashnode/Track-4.png" />
 </p>
 
+### Special track!
 For this month, we will be partnering with EddieHub! Write a blog sharing how you have grown by collaborating with people and stand a chance to win a Keychron Keyboard. :keyboard:
 <p align="center">
   <img width="48%" src="../assets/hashnode/Special_track.png" />
  
 </p>
-
 
 ## General info
 👉 If you want to get your blogs reviewed by the community members, drop a link to your published blog in the discord server
