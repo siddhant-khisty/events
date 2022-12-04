@@ -72,5 +72,7 @@ Check out some of the previous winners of the Hashnode Challenge.
   <img width="33%" src="../assets/hashnode/Special_September.jpg" />
   <img width="33%" src="../assets/hashnode/Winner_October.jpg" />
   <img width="33%" src="../assets/hashnode/Special_October.jpg" />
+  <img width="33%" src="../assets/hashnode/Winner_November.jpg" />
+  <img width="33%" src="../assets/hashnode/Special_November.jpg" />
 </p>
 
