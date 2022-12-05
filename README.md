@@ -10,7 +10,7 @@ If so, you've come to the correct place. Participate in the numerous incredible 
 Check out the following events and participate. 
 
 # Current events
-
+- [Stream Hackathon](./stream-hackathon/README.md) - 16th December - 19th December
 - [Hashnode blogging challenge](./hashnode/README.md) - Every month
 
 # Past events
