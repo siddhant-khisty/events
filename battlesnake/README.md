@@ -5,12 +5,13 @@ WeMakeDevs is running a month long Battlesnake Battleground event. The idea is f
 
 ## 🚨 Steps to take part
 1. Watch the [announcement video](https://youtu.be/LDsUpjLV5Uk).
-2. Join the [Battlesnake Discord](https://discord.com/invite/hD8fvUGcqC) and introduce yourself in #battlegrounds channel.
-3. [Sign up](https://play.battlesnake.com) ✅
-4. [Create your snake](https://play.battlesnake.com/account/snakes/interstitial/).
-5. Complete the [training programm challenges](https://play.battlesnake.com/challenges/).
-6. Add your snake in the [DEVSMAKESNAKE Battleground](https://play.battlesnake.com/battlegrounds/).
-7. Compete by optimising your snake and move up the [leaderboard](https://play.battlesnake.com/ladder/bg-december-2022-devsmakesnakes/)!
+2. Follow Battlesnake on [Twitter](https://twitter.com/playbattlesnake) for updates.
+3. Join the [Battlesnake Discord](https://discord.com/invite/hD8fvUGcqC) and introduce yourself in #battlegrounds channel.
+4. [Sign up](https://play.battlesnake.com) ✅
+5. [Create your snake](https://play.battlesnake.com/account/snakes/interstitial/).
+6. Complete the [training programm challenges](https://play.battlesnake.com/challenges/).
+7. Add your snake in the [DEVSMAKESNAKE Battleground](https://play.battlesnake.com/battlegrounds/).
+8. Compete by optimising your snake and move up the [leaderboard](https://play.battlesnake.com/ladder/bg-december-2022-devsmakesnakes/)!
 
 ## 📄 Resources
 - [Official docs](https://docs.battlesnake.com)
