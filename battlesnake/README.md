@@ -1,9 +1,7 @@
 # Battlesnake December tournament
 
 ## About
-Leaderboard; 
-
-WeMakeDevs is running a month long Battlesnake Battleground event. The idea is for you to build your snake, use any algorithm that you like, and compete with people around the world. Anyone with beginner-level coding knowledge can have fun with Battlesnake. Learn how to take part 👇
+WeMakeDevs is running a month long Battlesnake Battleground event. The idea is for you to build your snake, use any algorithm that you like, and compete with people around the world. Anyone with beginner-level coding knowledge can have fun with Battlesnake.
 
 ## 🚨 Steps to take part
 1. Join the [Battlesnake Discord](https://discord.com/invite/hD8fvUGcqC) and introduce yourself in #battlegrounds channel
