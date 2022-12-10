@@ -8,7 +8,7 @@ Check out the following events and participate.
 # Current events
 
 - [Battlesnake December tournament](./battlesnake/README.md)
-- [Hashnode blogging challenge](./hashnode/README.md) - Every month 
+- [Hashnode blogging challenge](./hashnode/README.md) - every month 
 
 # Past events
 Will be updated soon
