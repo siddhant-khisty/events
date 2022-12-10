@@ -11,5 +11,5 @@ Check out the following events and participate.
 - [Hashnode blogging challenge](./hashnode/README.md) - every month 
 
 # Past events
-Will be updated soon
+- [Cloud native hackathon - Dec 2021](https://cloudnativehack21.devpost.com)
 
