@@ -16,6 +16,7 @@ WeMakeDevs is running a month long Battlesnake Battleground event. The idea is f
 ## 📄 Resources
 - [Official docs](https://docs.battlesnake.com)
 - [YouTube livestreams by Kunal](https://www.youtube.com/KunalKushwaha)
+- [Step by step guide to getting started](https://youtu.be/FG4Ddsayk6A)
 - [Previous livestreams](https://www.twitch.tv/BattlesnakeOfficial/videos)
 
 ## 🏆 Prizes
