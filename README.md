@@ -7,6 +7,7 @@ Check out the following events and participate.
 
 # Current events
 
+- [Stream hackathon](https://wemakedevs-stream.devpost.com/resources)
 - [Battlesnake December tournament](./battlesnake/README.md)
 - [Hashnode blogging challenge](./hashnode/README.md) - every month 
 
