@@ -7,10 +7,10 @@ Check out the following events and participate.
 
 # Current events
 
-- [Stream hackathon](https://wemakedevs-stream.devpost.com/resources)
 - [Battlesnake December tournament](./battlesnake/README.md)
 - [Hashnode blogging challenge](./hashnode/README.md) - every month 
 
 # Past events
+- [Stream hackathon - Dec 2022](https://wemakedevs-stream.devpost.com/resources)
 - [Cloud native hackathon - Dec 2021](https://cloudnativehack21.devpost.com)
 
