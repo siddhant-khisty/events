@@ -6,8 +6,8 @@ If so, you've come to the correct place. Participate in the numerous incredible 
 Check out the following events and participate. 
 
 # Current events
-- [Battlesnake December tournament](./battlesnake/README.md)
-- [Hashnode blogging challenge](./hashnode/README.md) - every month 
+- [Battlesnake December tournament - Dec 2022](./battlesnake/README.md)
+- [Hashnode blogging challenge - every month](./hashnode/README.md)
 
 # Past events
 - [Stream hackathon - Dec 2022](https://wemakedevs-stream.devpost.com/resources)
