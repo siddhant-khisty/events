@@ -17,7 +17,7 @@ You can participate in a few simple steps.
 ### How to win the grand prize
 Each month there will be a grand prize such as Apple iPhones, Macbooks, etc.
 
-At the end of the month, the person who writes the best blogs will win the grand prize.
+At the end of the month, the person who writes the best quality blogs will win the grand prize.
 
 ### Special track
 Apart from the 4 tracks mentioned above, we will occasionally be having a special track as well. This special track will be based on a certain theme for the month. 
@@ -28,10 +28,10 @@ You can write blogs on the given theme, submit them, and win a special prize as 
 
 ## What are the prizes for this month
 
-We have an exciting prize for December! Check it out :point_down:
+We have an exciting prize for January! Check it out :point_down:
 
 <p align="center">
-    <img width="48%" src="../assets/hashnode/Special_prize.png" />
+    <img width="48%" src="../assets/hashnode/Special-Prize.png" />
 </p>
 
 ## What are the tracks for the current month?
@@ -44,9 +44,10 @@ Below you can find the current tracks for this month.
 </p>
 
 ### Special track!
-For this month, we will be partnering with EddieHub! Write a blog sharing how you have grown by collaborating with people and stand a chance to win a Keychron Keyboard. :keyboard:
+
+2022 just ended, and we're sure you've learned a ton of things. Write a blog sharing all your learnings and acheivements from 2022, and stand a chance to win a RGB mechanical keyboard. :keyboard:
 <p align="center">
-  <img width="48%" src="../assets/hashnode/Special_track.png" />
+  <img width="48%" src="../assets/hashnode/Special-Track.png" />
  
 </p>
 
@@ -74,5 +75,6 @@ Check out some of the previous winners of the Hashnode Challenge.
   <img width="33%" src="../assets/hashnode/Special_October.jpg" />
   <img width="33%" src="../assets/hashnode/Winner_November.jpg" />
   <img width="33%" src="../assets/hashnode/Special_November.jpg" />
+  <img width="33%" src="../assets/hashnode/Special_December.jpg" />
 </p>
 
