@@ -6,10 +6,10 @@ If so, you've come to the correct place. Participate in the numerous incredible 
 Check out the following events and participate. 
 
 # Current events
-- [Battlesnake December tournament - Dec 2022](./battlesnake/README.md)
 - [Hashnode blogging challenge - every month](./hashnode/README.md)
 
 # Past events
+- [Battlesnake December tournament - Dec 2022](./battlesnake/README.md)
 - [Stream hackathon - Dec 2022](https://wemakedevs-stream.devpost.com/resources)
 - [Open Source Fest - Aug 2022](https://www.youtube.com/watch?v=MI--kEdwEaU)
 - [Practice Your Coding Skills With Wilco - Aug 2022](https://www.youtube.com/watch?v=WXvzjvHuMFU)
